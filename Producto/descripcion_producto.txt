@@ -1,15 +1,7 @@
-codigo_fuente_proyecto.zip:
-Contiene el código fuente principal del sistema.
-URL pública del repositorio: https://github.com/usuario/nombre-repositorio
-
-repositorio_backend.zip:
+Deckora-API-Main.zip:
 Contiene el backend/API del proyecto.
-URL pública del repositorio: https://github.com/usuario/repositorio-backend
+URL pública del repositorio: https://github.com/VerdaMech/Deckora-API
 
-repositorio_frontend.zip:
+Deckora-Web-Main.zip:
 Contiene la interfaz web del proyecto.
-URL pública del repositorio: https://github.com/usuario/repositorio-frontend
-
-base_de_datos.zip:
-Contiene scripts SQL, tablas, procedimientos almacenados y datos de prueba.
-URL pública del repositorio: https://github.com/usuario/repositorio-bd
+URL pública del repositorio: https://github.com/VerdaMech/Deckora-Web
